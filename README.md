@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Starkplex
-- I’m interested in Ethical hacking 
-- New here
+- Interested in Ethical hacking and social engineering.
 
